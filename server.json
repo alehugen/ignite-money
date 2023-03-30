@@ -15,6 +15,14 @@
       "price": 1400,
       "category": "Serviço",
       "createdAt": "2023-03-29T19:36:44.505Z"
+    },
+    {
+      "description": "Cinema",
+      "price": 60,
+      "category": "Entretenimento",
+      "type": "outcome",
+      "createdAt": "2023-03-30T19:15:43.288Z",
+      "id": 3
     }
   ]
 }

@@ -1,7 +1,7 @@
-import { HeaderContainer, HeaderContent, NewTransactionButton } from "./style";
+import { HeaderContainer, HeaderContent, NewTransactionButton } from './style'
 import * as Dialog from '@radix-ui/react-dialog'
 import logoIMG from '../../assets/LOA_LOGO.png'
-import { NewTransactionModal } from "../NewTransactionModal";
+import { NewTransactionModal } from '../NewTransactionModal'
 
 export function Header() {
   return (

@@ -23,6 +23,14 @@
       "type": "outcome",
       "createdAt": "2023-03-30T19:15:43.288Z",
       "id": 3
+    },
+    {
+      "description": "Desenvolvimento APP",
+      "price": 3000,
+      "category": "Serviços",
+      "type": "income",
+      "createdAt": "2023-03-30T19:47:29.138Z",
+      "id": 4
     }
   ]
 }
